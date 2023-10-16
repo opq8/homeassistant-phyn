@@ -55,6 +55,10 @@ Configuration is done via the Home Assistant UI as an Integration and as Devices
 
 * A prompt will appear for you to enter your Phyn Account username and password. (This could sometimes take 2-3 minutes, or longer)
 
+# Known Issues
+
+* Phyn home name (in the Phyn App > Settings > Home > Address > Home Name) cannot be set to "Home" or integration configuration and setup will fail.
+
 # Changelog
 
 _2023.01.00_ (from [@MizterB](https://github.com/MizterB/homeassistant-phyn))
